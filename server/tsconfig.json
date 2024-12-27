@@ -1,0 +1,17 @@
+{
+  "extends": "../.nuxt/tsconfig.server.json",
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    "**/*.ts",
+    "../mongodb.js"
+  ],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "~/*": ["../*"],
+      "@/*": ["../*"]
+    }
+  }
+}

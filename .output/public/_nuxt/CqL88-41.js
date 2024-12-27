@@ -1,0 +1,1 @@
+import{x as a,c as n,r as s,j as t,o as c,av as r}from"./BdTB-59g.js";const _={};function l(e,f){const o=r;return c(),n("div",null,[s(e.$slots,"default"),t(o)])}const m=a(_,[["render",l]]);export{m as default};

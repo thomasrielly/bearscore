@@ -1,0 +1,1471 @@
+[
+  {
+    "company": "Plenti",
+    "logo": "/img/plenti.png",
+    "title": "Plenti",
+    "description": "Need to borrow for your big idea? We’ve funded more than $3 billion in award-winning, tech-powered loans to Aussies just like you. Your customised rate estimate is just a few clicks away.",
+    "tags": ["Personal", "Car"],
+    "category": ["Car Loan", "Personal Loan"],
+    "interestRate": "6.42% - 23.94%",
+    "comparisonRate": "6.42% - 23.94%",
+    "establishmentFee": "From $0",
+    "costRange": "5000 - 70000",
+    "approvalChance": "Excellent",
+    "products": [
+      {
+        "type": "Personal Loan",
+        "interestRate": "6.42% - 23.94%",
+        "comparisonRate": "7.00% - 24.50%",
+        "establishmentFee": "From $0",
+        "costRange": "5000 - 70000",
+        "approvalChance": "Excellent"
+      },
+      {
+        "type": "Car Loan",
+        "interestRate": "5.99% - 19.99%",
+        "comparisonRate": "6.50% - 20.50%",
+        "establishmentFee": "From $295",
+        "costRange": "10000 - 80000",
+        "approvalChance": "High"
+      }
+    ],
+    "team": [
+      {
+        "tooltip": "Clark Smith",
+        "src": "/img/avatars/3.svg"
+      },
+      {
+        "tooltip": "Maya Rosselini",
+        "src": "/img/avatars/2.svg"
+      },
+      {
+        "tooltip": "Clarissa Miller",
+        "src": "/img/avatars/5.svg"
+      },
+      {
+        "tooltip": "Jane Doe",
+        "src": "/img/avatars/4.svg"
+      }
+    ],
+    "location": "Sydney, NSW",
+    "video": "https://www.youtube.com/watch?v=ohR7Vw6QtiE",
+    "likes": 120,
+    "starReviews": 3249,
+    "reviews": [
+      {
+        "username": "John Doe",
+        "position": "Manager",
+        "src": "/img/avatars/1.svg",
+        "location": "New York, NY",
+        "industry": "Hospitality",
+        "status": "manager",
+        "review": "Great service and seamless booking experience.",
+        "rating": 5
+      },
+      {
+        "username": "Jane Smith",
+        "position": "Director",
+        "src": "/img/avatars/2.svg",
+        "location": "Los Angeles, CA",
+        "industry": "Travel",
+        "status": "user",
+        "review": "Exclusive deals and great support.",
+        "rating": 4
+      }
+    ],
+    "overview": "Plenti is a leading provider of personal and car loans with a focus on innovative, tech-powered lending solutions tailored to meet customer needs.",
+    "website": "https://www.plenti.com.au",
+    "industry": "Financial Services",
+    "companySize": "500 employees",
+    "headquarters": "Sydney, Australia",
+    "subCategory": "Personal Loans and Finance"
+  },  
+  {
+    "company": "Harmoney",
+    "logo": "/img/harmoney1.png",
+    "title": "Harmoney",
+    "description": "Harmoney offers competitive personal and car loans with transparent terms and a seamless application process. Tailored to fit your financial needs, their loans provide flexibility and reliability.",
+    "tags": ["Loan", "Personal Loan", "Car Loan", "Finance"],
+    "category": ["Car Loan", "Personal Loan"],
+    "costRange": "2,000 - 70,000",
+    "averageCost": 35000,
+    "interestRate": "6.99% - 24.99% p.a.",
+    "comparisonRate": "7.69% - 26.27% p.a.",
+    "team": [
+      {
+        "tooltip": "Hermann Mayer",
+        "src": "/img/avatars/16.svg"
+      },
+      {
+        "tooltip": "Jen Rossi",
+        "src": "/img/avatars/10.svg"
+      }
+    ],
+    "location": "Auckland, New Zealand",
+    "video": "https://www.youtube.com/watch?v=1ghTLBwdStg",
+    "likes": 324,
+    "starReviews": 1146,
+    "reviews": [
+      {
+        "username": "Alice Brown",
+        "position": "Software Engineer",
+        "src": "/img/avatars/3.svg",
+        "location": "San Francisco, CA",
+        "industry": "Technology",
+        "status": "manager",
+        "review": "Excellent for team communication.",
+        "rating": 5
+      },
+      {
+        "username": "Bob Johnson",
+        "position": "Project Manager",
+        "src": "/img/avatars/4.svg",
+        "location": "Seattle, WA",
+        "industry": "IT",
+        "status": "user",
+        "review": "Seamless integration with our tools.",
+        "rating": 4
+      },
+      {
+        "username": "Carol White",
+        "position": "Designer",
+        "src": "/img/avatars/5.svg",
+        "location": "Portland, OR",
+        "industry": "Design",
+        "status": "manager",
+        "review": "Great for collaboration.",
+        "rating": 5
+      }
+    ],
+    "overview": "Harmoney is committed to helping individuals meet their financial goals. With a focus on customer satisfaction, Harmoney provides clear and flexible loan options to ensure a smooth financial journey.",
+    "website": "https://www.harmoney.com.au",
+    "industry": "Financial Services",
+    "companySize": "500 employees",
+    "headquarters": "Auckland, New Zealand",
+    "subCategory": "Personal and Car Loans",
+    "products": [
+      {
+        "type": "Unsecured Personal Loan",
+        "purpose": "Debt consolidation, home improvements, travel, education, medical expenses, and other personal needs.",
+        "loanAmount": "2,000 - 70,000",
+        "interestRate": "6.99% - 24.99% p.a.",
+        "comparisonRate": "7.69% - 26.27% p.a.",
+        "loanTerm": [3, 5, 7],
+        "fees": {
+          "establishmentFee": "275 AUD",
+          "monthlyFee": "None",
+          "earlyRepaymentFee": "None"
+        },
+        "costRange": "2,000 - 70,000",
+        "approvalChance": "High"
+      },
+      {
+        "type": "Car Loan",
+        "purpose": "Purchase of new or used vehicles.",
+        "loanAmount": "5,000 - 70,000",
+        "interestRate": "6.99% - 14.99% p.a.",
+        "comparisonRate": "7.69% - 15.55% p.a.",
+        "loanTerm": [3, 5, 7],
+        "fees": {
+          "establishmentFee": "275 AUD",
+          "monthlyFee": "None",
+          "earlyRepaymentFee": "None"
+        },
+        "costRange": "5,000 - 70,000",
+        "approvalChance": "High"
+      }
+    ]
+  },
+  
+  
+
+{
+  "company": "Our Money Market",
+  "logo": "/img/omm.png",
+  "title": "Our Money Market",
+  "description": "Our Money Market is an Australian-based online marketplace lender offering tailored personal loan solutions for various purposes, including debt consolidation, travel, home improvement, and education. They specialize in providing fixed-rate, unsecured loans with competitive interest rates and a fast, simple application process.",
+  "tags": ["Personal Loans", "Car Loans", "Online Lending"],
+  "category": ["Personal Loan", "Car Loan"],
+  "costRange": "2,001 - 75,000 AUD",
+  "averageCost": 30000,
+  "interestRate": "6.99% - 19.99% p.a.",
+  "comparisonRate": "7.69% - 21.56% p.a.",
+  "team": [
+    {
+      "tooltip": "Jessica Wilson",
+      "src": "/img/avatars/11.svg"
+    },
+    {
+      "tooltip": "Michael Brown",
+      "src": "/img/avatars/18.svg"
+    }
+  ],
+  "location": "Brisbane, Australia",
+  "video": "https://www.youtube.com/watch?v=example",
+  "likes": 150,
+  "starReviews": 912,
+  "reviews": [
+    {
+      "username": "Chris Green",
+      "position": "DevOps Engineer",
+      "src": "/img/avatars/5.svg",
+      "location": "Sydney, Australia",
+      "industry": "Software",
+      "status": "manager",
+      "review": "Streamlines our CI/CD processes.",
+      "rating": 5
+    },
+    {
+      "username": "Dana White",
+      "position": "Software Developer",
+      "src": "/img/avatars/6.svg",
+      "location": "Melbourne, Australia",
+      "industry": "Tech",
+      "status": "user",
+      "review": "Powerful tools for version control.",
+      "rating": 4
+    }
+  ],
+  "overview": "Our Money Market is a web-based online marketplace lender that provides personal and car loan solutions with competitive interest rates and a simple application process.",
+  "website": "https://ourmoneymarket.com.au",
+  "industry": "Financial Services",
+  "companySize": "11-50 employees",
+  "headquarters": "Brisbane, Queensland, Australia",
+  "subCategory": "Online Lending",
+  "products": [
+    {
+      "type": "Personal Loan",
+      "purpose": "Debt consolidation, travel, home improvement, education, and other personal expenses.",
+      "loanAmount": "2,000 - 75,000",
+      "interestRate": "6.99% - 19.99% p.a.",
+      "comparisonRate": "7.69% - 21.56% p.a.",
+      "loanTerm": "1 to 7 years",
+      "fees": {
+        "establishmentFee": "250 AUD",
+        "monthlyFee": "Varies",
+        "earlyRepaymentFee": "None"
+      },
+      "costRange": "2,000 - 75,000",
+      "approvalChance": "High"
+    },
+    {
+      "type": "Car Loan",
+      "purpose": "Purchase of new or used vehicles.",
+      "loanAmount": "2,001 - 75,000 AUD",
+      "interestRate": "6.99% - 19.99% p.a.",
+      "comparisonRate": "7.69% - 21.56% p.a.",
+      "loanTerm": "1 to 7 years",
+      "fees": {
+        "establishmentFee": "250 AUD",
+        "monthlyFee": "Varies",
+        "earlyRepaymentFee": "None"
+      },
+      "costRange": "2,000 - 75,000",
+      "approvalChance": "High"
+    }
+  ]
+},
+
+{
+  "company": "Westpac",
+  "logo": "/img/westpac.png",
+  "title": "Westpac Loans and Credit Cards",
+  "description": "Westpac is one of Australia's largest lenders offering home loans, car loans, personal loans, and credit cards tailored to customer needs.",
+  "tags": ["Home", "Car", "Personal", "Credit Card"],
+  "category": ["Home Loan", "Car Loan", "Personal Loan", "Credit Card"],
+  "costRange": "10,000 - 1,000,000 AUD",
+  "averageCost": 250000,
+  "team": [
+    {
+      "tooltip": "James Brown",
+      "src": "/img/avatars/9.svg"
+    },
+    {
+      "tooltip": "Jessica Lee",
+      "src": "/img/avatars/10.svg"
+    }
+  ],
+  "location": "Australia",
+  "video": "https://www.youtube.com/watch?v=q19RtuCHt1Q&t",
+  "likes": 500,
+  "starReviews": 412,
+  "reviews": [
+    {
+      "username": "James Brown",
+      "position": "Engineer",
+      "src": "/img/avatars/9.svg",
+      "location": "Melbourne, Australia",
+      "review": "Flexible loan options.",
+      "rating": 5
+    },
+    {
+      "username": "Jessica Lee",
+      "position": "Teacher",
+      "src": "/img/avatars/10.svg",
+      "location": "Perth, Australia",
+      "review": "Helpful and informative staff.",
+      "rating": 4
+    }
+  ],
+  "overview": "Westpac is one of Australia's leading financial institutions, offering a variety of loans and credit cards to meet customer needs.",
+  "website": "https://www.westpac.com.au",
+  "industry": "Banking",
+  "companySize": "35,000 employees",
+  "headquarters": "Sydney, Australia",
+  "subCategory": "Banking and Loans",
+  "products": [
+    {
+      "type": "Home Loan",
+      "interestRate": "4.89% - 6.89% p.a.",
+      "comparisonRate": "5.10% - 7.20% p.a.",
+      "fees": {
+        "establishmentFee": "None",
+        "monthlyFee": "10 AUD"
+      },
+      "costRange": "10,000 - 1,000,000 AUD",
+      "approvalChance": "High"
+    },
+    {
+      "type": "Car Loan",
+      "interestRate": "6.49% - 9.99% p.a.",
+      "comparisonRate": "7.00% - 10.50% p.a.",
+      "fees": {
+        "establishmentFee": "250 AUD",
+        "monthlyFee": "None"
+      },
+      "costRange": "10,000 - 75,000 AUD",
+      "approvalChance": "High"
+    },
+    {
+      "type": "Personal Loan",
+      "interestRate": "6.99% - 16.99% p.a.",
+      "comparisonRate": "7.69% - 18.25% p.a.",
+      "fees": {
+        "establishmentFee": "200 AUD",
+        "monthlyFee": "5 AUD"
+      },
+      "costRange": "4,000 - 50,000 AUD",
+      "approvalChance": "Medium"
+    },
+    {
+      "type": "Credit Card",
+      "subType": "Westpac Low Rate",
+      "interestRate": "13.49% p.a.",
+      "fees": {
+        "annualFee": "59 AUD",
+        "latePaymentFee": "15 AUD"
+      },
+      "costRange": "Up to 20,000 AUD",
+      "approvalChance": "High"
+    },
+    {
+      "type": "Credit Card",
+      "subType": "Westpac Low Fee",
+      "interestRate": "20.09% p.a.",
+      "fees": {
+        "annualFee": "30 AUD",
+        "latePaymentFee": "15 AUD"
+      },
+      "costRange": "Up to 15,000 AUD",
+      "approvalChance": "High"
+    },
+    {
+      "type": "Credit Card",
+      "subType": "Westpac Flex",
+      "interestRate": "0% for up to 35 days, then 20.09% p.a.",
+      "fees": {
+        "monthlyFee": "10 AUD (waived if balance is paid in full)",
+        "latePaymentFee": "15 AUD"
+      },
+      "costRange": "Up to 10,000 AUD",
+      "approvalChance": "High"
+    },
+    {
+      "type": "Credit Card",
+      "subType": "Westpac Altitude Platinum",
+      "interestRate": "20.49% p.a.",
+      "fees": {
+        "annualFee": "99 AUD",
+        "latePaymentFee": "15 AUD"
+      },
+      "costRange": "Up to 30,000 AUD",
+      "approvalChance": "Medium"
+    },
+    {
+      "type": "Credit Card",
+      "subType": "Westpac Altitude Black",
+      "interestRate": "20.74% p.a.",
+      "fees": {
+        "annualFee": "250 AUD",
+        "latePaymentFee": "15 AUD"
+      },
+      "costRange": "Up to 50,000 AUD",
+      "approvalChance": "Medium"
+    },
+    {
+      "type": "Credit Card",
+      "subType": "Westpac Altitude Qantas Platinum",
+      "interestRate": "20.49% p.a.",
+      "fees": {
+        "annualFee": "119 AUD (first year), then 175 AUD",
+        "latePaymentFee": "15 AUD",
+        "rewardsFee": "75 AUD"
+      },
+      "costRange": "Up to 30,000 AUD",
+      "approvalChance": "Medium"
+    },
+    {
+      "type": "Credit Card",
+      "subType": "Westpac Altitude Black Qantas",
+      "interestRate": "20.74% p.a.",
+      "fees": {
+        "annualFee": "200 AUD (first year), then 295 AUD",
+        "latePaymentFee": "15 AUD",
+        "rewardsFee": "75 AUD"
+      },
+      "costRange": "Up to 50,000 AUD",
+      "approvalChance": "Medium"
+    }
+  ]
+},
+
+{
+  "company": "Commonwealth Bank",
+  "logo": "/img/commbank.png",
+  "title": "CommBank Loans and Credit Cards",
+  "description": "Commonwealth Bank is one of Australia's leading lenders, offering a comprehensive range of home loans, car loans, personal loans, and credit cards tailored to customer needs.",
+  "tags": ["Home Loan", "Car Loan", "Personal Loan", "Credit Card"],
+  "category": ["Home Loan", "Car Loan", "Personal Loan", "Credit Card"],
+  "costRange": "10,000 - 1,000,000 AUD",
+  "averageCost": 300000,
+  "team": [
+    {
+      "tooltip": "Oliver Green",
+      "src": "/img/avatars/11.svg"
+    },
+    {
+      "tooltip": "Emma White",
+      "src": "/img/avatars/12.svg"
+    }
+  ],
+  "location": "Sydney, Australia",
+  "video": "https://www.youtube.com/watch?v=nOczYQxyfPk",
+  "likes": 450,
+  "starReviews": 902,
+  "reviews": [
+    {
+      "username": "Oliver Green",
+      "position": "Investor",
+      "src": "/img/avatars/11.svg",
+      "location": "Adelaide, Australia",
+      "industry": "Finance",
+      "status": "manager",
+      "review": "Fast approval process.",
+      "rating": 5
+    },
+    {
+      "username": "Emma White",
+      "position": "Nurse",
+      "src": "/img/avatars/12.svg",
+      "location": "Hobart, Australia",
+      "industry": "Healthcare",
+      "status": "user",
+      "review": "Great support and guidance.",
+      "rating": 4
+    }
+  ],
+  "overview": "Commonwealth Bank is one of Australia's leading financial institutions, providing a range of services including loans, credit cards, and financial planning.",
+  "website": "https://www.commbank.com.au",
+  "industry": "Banking",
+  "companySize": "48,000 employees",
+  "headquarters": "Sydney, Australia",
+  "subCategory": "Financial Services",
+  "products": [
+    {
+      "type": "Home Loan",
+      "subType": "Standard Variable Rate",
+      "interestRate": "6.15% p.a.",
+      "comparisonRate": "6.30% p.a.",
+      "fees": {
+        "establishmentFee": "600 AUD",
+        "monthlyFee": "8 AUD"
+      },
+      "costRange": "50,000 - 1,000,000 AUD",
+      "approvalChance": "High",
+      "website": "https://www.commbank.com.au/home-loans.html"
+    },
+    {
+      "type": "Car Loan",
+      "subType": "Secured Car Loan",
+      "interestRate": "6.49% p.a.",
+      "comparisonRate": "7.90% p.a.",
+      "fees": {
+        "establishmentFee": "250 AUD",
+        "monthlyFee": "15 AUD"
+      },
+      "costRange": "10,000 - 100,000 AUD",
+      "approvalChance": "High",
+      "website": "https://www.commbank.com.au/personal-loans/car-loans.html"
+    },
+    {
+      "type": "Personal Loan",
+      "subType": "Unsecured Fixed Rate",
+      "interestRate": "8.00% p.a.",
+      "comparisonRate": "9.04% p.a.",
+      "fees": {
+        "establishmentFee": "250 AUD",
+        "monthlyFee": "15 AUD"
+      },
+      "costRange": "4,000 - 50,000 AUD",
+      "approvalChance": "Medium",
+      "website": "https://www.commbank.com.au/personal-loans.html"
+    },
+    {
+      "type": "Credit Card",
+      "subType": "Low Rate Credit Card",
+      "interestRate": "13.24% p.a.",
+      "annualFee": "59 AUD",
+      "costRange": "Up to 20,000 AUD",
+      "approvalChance": "High",
+      "website": "https://www.commbank.com.au/credit-cards/low-rate-card.html"
+    },
+    {
+      "type": "Credit Card",
+      "subType": "Awards Credit Card",
+      "interestRate": "20.24% p.a.",
+      "annualFee": "119 AUD",
+      "costRange": "Up to 30,000 AUD",
+      "approvalChance": "Medium",
+      "website": "https://www.commbank.com.au/credit-cards/awards-card.html"
+    }
+  ]
+},
+
+
+
+
+
+{
+  "company": "ANZ",
+  "logo": "/img/anz.png",
+  "title": "ANZ Loans",
+  "description": "ANZ offers a range of home loans, car loans, and personal loans tailored to meet your needs. With flexible repayment options and competitive rates, ANZ is committed to helping you achieve your financial goals.",
+  "tags": ["Home", "Car", "Personal"],
+  "category": ["Home Loan", "Car Loan", "Personal Loan", "Credit Card"],
+  "costRange": "20000 - 90000",
+  "averageCost": 150000,
+  "team": [
+    {
+      "tooltip": "Alice Brown",
+      "src": "/img/avatars/7.svg"
+    },
+    {
+      "tooltip": "Michael Green",
+      "src": "/img/avatars/8.svg"
+    }
+  ],
+  "location": "Sydney, Australia",
+  "video": "https://www.youtube.com/watch?v=Vu90oMca10w",
+  "likes": 200,
+  "starReviews": 112,
+  "reviews": [
+    {
+      "username": "Emily Johnson",
+      "position": "Teacher",
+      "src": "/img/avatars/9.svg",
+      "location": "Melbourne, Australia",
+      "industry": "Education",
+      "status": "user",
+      "review": "ANZ provided great support throughout the loan process.",
+      "rating": 5
+    },
+    {
+      "username": "James Smith",
+      "position": "Entrepreneur",
+      "src": "/img/avatars/10.svg",
+      "location": "Brisbane, Australia",
+      "industry": "Business",
+      "status": "manager",
+      "review": "Competitive rates and friendly staff.",
+      "rating": 4
+    }
+  ],
+  "overview": "ANZ is one of Australia's leading financial institutions, offering a variety of loans, banking services, and financial products to meet the diverse needs of individuals and businesses.",
+  "website": "http://anz.com",
+  "industry": "Banking",
+  "companySize": "50,000 employees",
+  "headquarters": "Sydney, Australia",
+  "subCategory": "Banking and Loans"
+},
+{
+  "company": "Bank of Queensland",
+  "logo": "/img/boq.png",
+  "title": "BOQ Personal Loans",
+  "description": "Bank of Queensland offers personal loans with flexible terms and competitive interest rates, helping you finance your needs effortlessly.",
+  "tags": ["Personal Loan", "Unsecured Loan"],
+  "category": ["Personal Loan"],
+  "costRange": "5k ~ 50k",
+  "averageCost": 20000,
+  "team": [
+    {
+      "tooltip": "Sarah Lee",
+      "src": "/img/avatars/25.svg"
+    },
+    {
+      "tooltip": "Tom Green",
+      "src": "/img/avatars/26.svg"
+    }
+  ],
+  "location": "Brisbane, Australia",
+  "video": "https://www.youtube.com/watch?v=abcd161718",
+  "likes": 240,
+  "starReviews": 1912,
+  "reviews": [
+    {
+      "username": "Linda Brown",
+      "position": "Teacher",
+      "src": "/img/avatars/27.svg",
+      "location": "Brisbane, Australia",
+      "industry": "Education",
+      "status": "user",
+      "review": "Quick and easy loan process.",
+      "rating": 5
+    },
+    {
+      "username": "Steve Wilson",
+      "position": "Small Business Owner",
+      "src": "/img/avatars/28.svg",
+      "location": "Sydney, Australia",
+      "industry": "Retail",
+      "status": "manager",
+      "review": "Competitive rates and excellent service.",
+      "rating": 4
+    }
+  ],
+  "overview": "Bank of Queensland provides a range of financial products, including personal loans, home loans, and savings accounts.",
+  "website": "https://www.boq.com.au",
+  "industry": "Banking",
+  "companySize": "2,500 employees",
+  "headquarters": "Brisbane, Australia",
+  "subCategory": "Personal Finance"
+},
+{
+  "company": "Macquarie Bank",
+  "logo": "/img/macquarie.png",
+  "title": "Macquarie Car Loans",
+  "description": "Macquarie Bank offers car loans with flexible repayment terms, tailored to help you drive the car of your dreams.",
+  "tags": ["Car Loan", "Vehicle Financing"],
+  "category": ["Car Loan"],
+  "costRange": "5k ~ 100k",
+  "averageCost": 35000,
+  "team": [
+    {
+      "tooltip": "Emily Black",
+      "src": "/img/avatars/7.svg"
+    },
+    {
+      "tooltip": "Jack Brown",
+      "src": "/img/avatars/4.svg"
+    }
+  ],
+  "location": "Sydney, Australia",
+  "video": "https://www.youtube.com/watch?v=abcd192021",
+  "likes": 320,
+  "starReviews": 2912,
+  "reviews": [
+    {
+      "username": "Olivia Green",
+      "position": "Driver",
+      "src": "/img/avatars/31.svg",
+      "location": "Melbourne, Australia",
+      "industry": "Automotive",
+      "status": "user",
+      "review": "Affordable rates for new car loans.",
+      "rating": 5
+    },
+    {
+      "username": "Ethan Blue",
+      "position": "Mechanic",
+      "src": "/img/avatars/32.svg",
+      "location": "Perth, Australia",
+      "industry": "Automotive",
+      "status": "manager",
+      "review": "Flexible repayment options.",
+      "rating": 4
+    }
+  ],
+  "overview": "Macquarie Bank provides financial solutions including home loans, car loans, and investment products.",
+  "website": "https://www.macquarie.com",
+  "industry": "Banking",
+  "companySize": "17,000 employees",
+  "headquarters": "Sydney, Australia",
+  "subCategory": "Vehicle Financing"
+},
+{
+  "company": "Suncorp Bank",
+  "logo": "/img/suncorp.png",
+  "title": "Suncorp Home Loans",
+  "description": "Suncorp Bank offers home loans with competitive rates and features to suit first-time buyers and investors.",
+  "tags": ["Home Loan", "Mortgage"],
+  "category": ["Home Loan" , "Credit Card", "Personal Loan", "Car Loan"],
+  "costRange": "50k ~ 1M",
+  "averageCost": 450000,
+  "team": [
+    {
+      "tooltip": "Lucas White",
+      "src": "/img/avatars/5.svg"
+    },
+    {
+      "tooltip": "Ella Brown",
+      "src": "/img/avatars/11.svg"
+    }
+  ],
+  "location": "Brisbane, Australia",
+  "video": "https://www.youtube.com/watch?v=abcd222324",
+  "likes": 500,
+  "starReviews": 2112,
+  "reviews": [
+    {
+      "username": "Chris Wilson",
+      "position": "Real Estate Agent",
+      "src": "/img/avatars/08.svg",
+      "location": "Sydney, Australia",
+      "industry": "Real Estate",
+      "status": "manager",
+      "review": "Great for first-time buyers.",
+      "rating": 5
+    },
+    {
+      "username": "Grace Scott",
+      "position": "Investor",
+      "src": "/img/avatars/12.svg",
+      "location": "Brisbane, Australia",
+      "industry": "Finance",
+      "status": "user",
+      "review": "Flexible loan options.",
+      "rating": 4
+    }
+  ],
+  "overview": "Suncorp Bank provides a range of financial services, including home loans, car loans, and savings accounts.",
+  "website": "https://www.suncorp.com.au",
+  "industry": "Banking",
+  "companySize": "13,000 employees",
+  "headquarters": "Brisbane, Australia",
+  "subCategory": "Mortgage Lending"
+},
+{
+  "company": "ING Direct",
+  "logo": "/img/ing.png",
+  "title": "ING Home Loans",
+  "description": "ING Direct provides home loans with competitive interest rates, helping you achieve your dream of home ownership. They offer flexible options and a seamless application process to make buying or refinancing your home simple and hassle-free.",
+  "tags": ["Home Loan", "Mortgage"],
+  "category": ["Home Loan"],
+  "costRange": "100k ~ 2M",
+  "averageCost": 750000,
+  "team": [
+    {
+      "tooltip": "Noah Taylor",
+      "src": "/img/avatars/15.svg"
+    },
+    {
+      "tooltip": "Sophia Green",
+      "src": "/img/avatars/14.svg"
+    }
+  ],
+  "location": "Sydney, Australia",
+  "video": "https://www.youtube.com/watch?v=abcd252627",
+  "likes": 600,
+  "starReviews": 912,
+  "reviews": [
+    {
+      "username": "Liam Black",
+      "position": "Investor",
+      "src": "/img/avatars/39.svg",
+      "location": "Melbourne, Australia",
+      "industry": "Finance",
+      "status": "manager",
+      "review": "Great rates and service.",
+      "rating": 5
+    },
+    {
+      "username": "Emma Blue",
+      "position": "First-Time Buyer",
+      "src": "/img/avatars/40.svg",
+      "location": "Adelaide, Australia",
+      "industry": "Real Estate",
+      "status": "user",
+      "review": "Very helpful support team.",
+      "rating": 4
+    }
+  ],
+  "overview": "ING Direct offers simple and straightforward banking products, including home loans, personal loans, and savings accounts.",
+  "website": "https://www.ing.com.au",
+  "industry": "Banking",
+  "companySize": "8,000 employees",
+  "headquarters": "Sydney, Australia",
+  "subCategory": "Mortgage Lending"
+},
+{
+  "company": "Pepper Money",
+  "logo": "/img/pepper.png",
+  "title": "Pepper Money Home Loans",
+  "description": "Pepper Money provides flexible home loan solutions tailored to borrowers with diverse needs, including self-employed individuals and those with unique financial circumstances.",
+  "tags": ["Flexible Options"],
+  "category": ["Home Loan"],
+  "costRange": "100k ~ 2M",
+  "averageCost": 500000,
+  "team": [
+    {
+      "tooltip": "Alice Green",
+      "src": "/img/avatars/1.svg"
+    },
+    {
+      "tooltip": "Bob White",
+      "src": "/img/avatars/2.svg"
+    }
+  ],
+  "location": "Sydney, Australia",
+  "video": "https://www.youtube.com/watch?v=example",
+  "likes": 220,
+  "starReviews": 712,
+  "reviews": [
+    {
+      "username": "Samantha Smith",
+      "position": "First-time Buyer",
+      "src": "/img/avatars/3.svg",
+      "location": "Brisbane, Australia",
+      "industry": "Real Estate",
+      "status": "user",
+      "review": "Great options for first-time buyers.",
+      "rating": 5
+    },
+    {
+      "username": "Michael Brown",
+      "position": "Investor",
+      "src": "/img/avatars/4.svg",
+      "location": "Melbourne, Australia",
+      "industry": "Finance",
+      "status": "manager",
+      "review": "Tailored solutions for complex needs.",
+      "rating": 4
+    }
+  ],
+  "overview": "Pepper Money offers a range of home loans that cater to borrowers with unique financial needs.",
+  "website": "https://www.pepper.com.au",
+  "industry": "Financial Services",
+  "companySize": "1,000 employees",
+  "headquarters": "Sydney, Australia",
+  "subCategory": "Non-Bank Lending"
+},
+{
+  "company": "Latitude Financial",
+  "logo": "/img/latitude.png",
+  "title": "Latitude Personal Loans",
+  "description": "Latitude Financial provides fast and flexible personal loans for a variety of needs, including travel, renovation, and debt consolidation.",
+  "tags": ["Personal Loan", "Car Loan", "Credit Card"],
+  "category": ["Personal Loan"],
+  "costRange": "5k ~ 50k",
+  "averageCost": 20000,
+  "team": [
+    {
+      "tooltip": "Chloe Adams",
+      "src": "/img/avatars/5.svg"
+    },
+    {
+      "tooltip": "Henry Taylor",
+      "src": "/img/avatars/6.svg"
+    }
+  ],
+  "location": "Melbourne, Australia",
+  "video": "https://www.youtube.com/watch?v=example",
+  "likes": 180,
+  "starReviews": 12,
+  "reviews": [
+    {
+      "username": "Sarah Johnson",
+      "position": "Teacher",
+      "src": "/img/avatars/7.svg",
+      "location": "Adelaide, Australia",
+      "industry": "Education",
+      "status": "user",
+      "review": "Simple process and quick approval.",
+      "rating": 5
+    },
+    {
+      "username": "James Walker",
+      "position": "Freelancer",
+      "src": "/img/avatars/8.svg",
+      "location": "Perth, Australia",
+      "industry": "Creative",
+      "status": "user",
+      "review": "Flexible repayment options made it easy.",
+      "rating": 4
+    }
+  ],
+  "overview": "Latitude Financial offers personal loans designed to suit a variety of lifestyles and financial goals.",
+  "website": "https://www.latitudefinancial.com.au",
+  "industry": "Financial Services",
+  "companySize": "2,000 employees",
+  "headquarters": "Melbourne, Australia",
+  "subCategory": "Personal Finance"
+},
+{
+  "company": "Firstmac",
+  "logo": "/img/firstmac.png",
+  "title": "Firstmac Home Loans",
+  "description": "Firstmac offers competitive home loans with a focus on delivering excellent customer service and low rates for Australian homeowners.",
+  "tags": ["Home Loan", "Low Rates", "Customer Service"],
+  "category": ["Home Loan"],
+  "costRange": "100k ~ 1.5M",
+  "averageCost": 450000,
+  "team": [
+    {
+      "tooltip": "Oliver Green",
+      "src": "/img/avatars/9.svg"
+    },
+    {
+      "tooltip": "Liam White",
+      "src": "/img/avatars/10.svg"
+    }
+  ],
+  "location": "Brisbane, Australia",
+  "video": "https://www.youtube.com/watch?v=example",
+  "likes": 200,
+  "starReviews": 1112,
+  "reviews": [
+    {
+      "username": "Emma Williams",
+      "position": "Homeowner",
+      "src": "/img/avatars/11.svg",
+      "location": "Sydney, Australia",
+      "industry": "Real Estate",
+      "status": "manager",
+      "review": "Very satisfied with the competitive rates.",
+      "rating": 5
+    },
+    {
+      "username": "Noah Brown",
+      "position": "Investor",
+      "src": "/img/avatars/12.svg",
+      "location": "Gold Coast, Australia",
+      "industry": "Property",
+      "status": "user",
+      "review": "Smooth application process.",
+      "rating": 4
+    }
+  ],
+  "overview": "Firstmac is an Australian-owned lender offering affordable and competitive home loans.",
+  "website": "https://www.firstmac.com.au",
+  "industry": "Financial Services",
+  "companySize": "800 employees",
+  "headquarters": "Brisbane, Australia",
+  "subCategory": "Home Loans"
+},
+
+{
+  "company": "MoneyPlace",
+  "logo": "/img/moneyplace.png",
+  "title": "MoneyPlace",
+  "description": "MoneyPlace offers low-interest personal loans with fixed rates and no ongoing fees. Our loans are innovative, simple, and 100% online, so you don't have to deal with a faceless company or pay expensive bank interest rates. Apply online and get your money in 1–2 days. Get a better personal loan today.",
+  "tags": ["Personal Loan", "Debt Consolidation", "Car Loan"],
+  "category": ["Personal Loan"],
+  "interestRate": "7.65% - 26.99%",
+  "comparisonRate": "7.65% - 26.99%",
+  "establishmentFee": "From $0 to $950",
+  "costRange": "5000 - 45000",
+  "approvalChance": "High",
+  "products": [
+    {
+      "type": "Unsecured Personal Loan",
+      "interestRate": "7.65% - 26.99%",
+      "comparisonRate": "7.65% - 26.99%",
+      "establishmentFee": "From $0 to $950",
+      "costRange": "5000 - 45000",
+      "approvalChance": "High"
+    },
+    {
+      "type": "Secured Personal Loan",
+      "interestRate": "7.65% - 26.99%",
+      "comparisonRate": "7.65% - 26.99%",
+      "establishmentFee": "From $310 to $1,035",
+      "costRange": "5000 - 45000",
+      "approvalChance": "High"
+    }
+  ],
+  "team": [
+    {
+      "tooltip": "John Smith",
+      "src": "/img/avatars/1.svg"
+    },
+    {
+      "tooltip": "Jane Doe",
+      "src": "/img/avatars/2.svg"
+    }
+  ],
+  "location": "Melbourne, Australia",
+  "video": "https://www.youtube.com/watch?v=example",
+  "likes": 200,
+  "starReviews": 1500,
+  "reviews": [
+    {
+      "username": "Alice Brown",
+      "position": "Software Engineer",
+      "src": "/img/avatars/3.svg",
+      "location": "Sydney, Australia",
+      "industry": "Technology",
+      "status": "user",
+      "review": "The application process was straightforward, and the funds were disbursed quickly.",
+      "rating": 5
+    },
+    {
+      "username": "Bob Johnson",
+      "position": "Project Manager",
+      "src": "/img/avatars/4.svg",
+      "location": "Brisbane, Australia",
+      "industry": "Construction",
+      "status": "user",
+      "review": "Competitive interest rates and excellent customer service.",
+      "rating": 4
+    }
+  ],
+  "overview": "MoneyPlace is a leading Australian online lender offering personal loans with competitive rates and a fully online application process.",
+  "website": "https://www.moneyplace.com.au",
+  "industry": "Financial Services",
+  "companySize": "50 employees",
+  "headquarters": "Melbourne, Australia",
+  "subCategory": "Personal Loans"
+},
+
+{
+  "company": "Wisr",
+  "logo": "/img/wisr.png",
+  "title": "Wisr",
+  "description": "Wisr provides unsecured personal loans and debt consolidation loans with tailored interest rates and a focus on financial wellness. Known for its easy application process and no hidden fees, Wisr helps Australians borrow better and improve their financial situation.",
+  "tags": ["Personal Loans", "Debt Consolidation", "Financial Wellness"],
+  "category": ["Personal Loan", "Debt Consolidation Loan"],
+  "interestRate": "6.49% - 19.99%",
+  "comparisonRate": "7.35% - 20.87%",
+  "establishmentFee": "From $595",
+  "costRange": "5000 - 64000 AUD",
+  "approvalChance": "High",
+  "products": [
+    {
+      "type": "Personal Loan",
+      "interestRate": "6.49% - 19.99%",
+      "comparisonRate": "7.35% - 20.87%",
+      "establishmentFee": "From $595",
+      "costRange": "5000 - 64000 AUD",
+      "approvalChance": "High"
+    },
+    {
+      "type": "Debt Consolidation Loan",
+      "interestRate": "6.49% - 19.99%",
+      "comparisonRate": "7.35% - 20.87%",
+      "establishmentFee": "From $595",
+      "costRange": "5000 - 64000 AUD",
+      "approvalChance": "High"
+    }
+  ],
+  "team": [
+    {
+      "tooltip": "Evan Thomas",
+      "src": "/img/avatars/7.svg"
+    },
+    {
+      "tooltip": "Sarah Wilson",
+      "src": "/img/avatars/8.svg"
+    }
+  ],
+  "location": "Sydney, NSW",
+  "video": "https://www.youtube.com/watch?v=example",
+  "likes": 250,
+  "starReviews": 1350,
+  "reviews": [
+    {
+      "username": "Oliver Green",
+      "position": "Investor",
+      "src": "/img/avatars/11.svg",
+      "location": "Adelaide, Australia",
+      "industry": "Finance",
+      "status": "user",
+      "review": "Wisr offers excellent loan options for consolidating debt.",
+      "rating": 5
+    },
+    {
+      "username": "Emma White",
+      "position": "Nurse",
+      "src": "/img/avatars/12.svg",
+      "location": "Hobart, Australia",
+      "industry": "Healthcare",
+      "status": "user",
+      "review": "Great service and clear communication.",
+      "rating": 4
+    }
+  ],
+  "overview": "Wisr is an Australian fintech company offering personal loans and financial tools to help customers manage debt and improve their financial health.",
+  "website": "https://www.wisr.com.au",
+  "industry": "Financial Services",
+  "companySize": "50 employees",
+  "headquarters": "Sydney, Australia",
+  "subCategory": "Fintech and Loans"
+},
+
+{
+  "company": "NOW Finance",
+  "logo": "/img/nowfinance.png",
+  "title": "NOW Finance",
+  "description": "NOW Finance offers no-fee personal loans with competitive rates, providing a simple and transparent application process to help Australians achieve their financial goals.",
+  "tags": ["Personal", "Car", "Debt Consolidation"],
+  "category": ["Personal Loan", "Car Loan", "Debt Consolidation"],
+  "interestRate": "6.75% - 26.95%",
+  "comparisonRate": "6.75% - 26.95%",
+  "establishmentFee": "$0",
+  "costRange": "5,000 - 100,000",
+  "approvalChance": "Excellent",
+  "products": [
+    {
+      "type": "Unsecured Personal Loan",
+      "interestRate": "6.75% - 26.95%",
+      "comparisonRate": "6.75% - 26.95%",
+      "establishmentFee": "$0",
+      "costRange": "5,000 - 50,000",
+      "approvalChance": "Excellent"
+    },
+    {
+      "type": "Secured Personal Loan",
+      "interestRate": "6.75% - 21.65%",
+      "comparisonRate": "6.75% - 21.65%",
+      "establishmentFee": "$0",
+      "costRange": "15,000 - 100,000",
+      "approvalChance": "High"
+    }
+  ],
+  "team": [
+    {
+      "tooltip": "Darren Smith",
+      "src": "/img/avatars/3.svg"
+    },
+    {
+      "tooltip": "Emily Johnson",
+      "src": "/img/avatars/2.svg"
+    },
+    {
+      "tooltip": "Michael Brown",
+      "src": "/img/avatars/5.svg"
+    },
+    {
+      "tooltip": "Sarah Wilson",
+      "src": "/img/avatars/4.svg"
+    }
+  ],
+  "location": "Melbourne, VIC",
+  "video": "https://www.youtube.com/watch?v=example",
+  "likes": 150,
+  "starReviews": 2800,
+  "reviews": [
+    {
+      "username": "Gavin",
+      "position": "Customer",
+      "src": "/img/avatars/1.svg",
+      "location": "Sydney, Australia",
+      "industry": "Retail",
+      "status": "user",
+      "review": "Really quick turnaround, better interest rate than my previous bank, a very uncomplicated process with a team that looked after me every step of the way.",
+      "rating": 5
+    },
+    {
+      "username": "Jessica Lee",
+      "position": "Customer",
+      "src": "/img/avatars/2.svg",
+      "location": "Melbourne, Australia",
+      "industry": "Healthcare",
+      "status": "user",
+      "review": "Flexible repayment terms and excellent customer service.",
+      "rating": 4
+    }
+  ],
+  "overview": "NOW Finance is a leading Australian non-bank lender specializing in no-fee personal loans with competitive rates, offering both secured and unsecured options to suit various financial needs.",
+  "website": "https://nowfinance.com.au",
+  "industry": "Financial Services",
+  "companySize": "200 employees",
+  "headquarters": "Melbourne, Australia",
+  "subCategory": "Personal Loans and Finance"
+},
+
+{
+  "company": "Money3",
+  "logo": "/img/money3.png",
+  "title": "Money3",
+  "description": "Money3 offers flexible personal and vehicle finance solutions, providing fair and fast loans tailored to your needs.",
+  "tags": ["Personal", "Car", "Vehicle"],
+  "category": ["Car Loan", "Personal Loan", "Vehicle Finance"],
+  "interestRate": "13.95% - 28.00%",
+  "comparisonRate": "20.38% - 37.39%",
+  "establishmentFee": "Varies",
+  "costRange": "2,000 - 75,000",
+  "approvalChance": "High",
+  "products": [
+    {
+      "type": "Personal Loan",
+      "interestRate": "13.95% - 28.00%",
+      "comparisonRate": "20.38% - 37.39%",
+      "establishmentFee": "Varies",
+      "costRange": "2,000 - 30,000",
+      "approvalChance": "High"
+    },
+    {
+      "type": "Car Loan",
+      "interestRate": "10.95% - 28.00%",
+      "comparisonRate": "18.65% - 37.39%",
+      "establishmentFee": "Varies",
+      "costRange": "2,000 - 75,000",
+      "approvalChance": "High"
+    }
+  ],
+  "team": [
+    {
+      "tooltip": "Clark Smith",
+      "src": "/img/avatars/3.svg"
+    },
+    {
+      "tooltip": "Maya Rosselini",
+      "src": "/img/avatars/2.svg"
+    },
+    {
+      "tooltip": "Clarissa Miller",
+      "src": "/img/avatars/5.svg"
+    },
+    {
+      "tooltip": "Jane Doe",
+      "src": "/img/avatars/4.svg"
+    }
+  ],
+  "location": "Bundoora, VIC",
+  "video": null,
+  "likes": 150,
+  "starReviews": 3249,
+  "reviews": [
+    {
+      "username": "John Doe",
+      "position": "Manager",
+      "src": "/img/avatars/1.svg",
+      "location": "New York, NY",
+      "industry": "Hospitality",
+      "status": "manager",
+      "review": "Great service and seamless booking experience.",
+      "rating": 5
+    },
+    {
+      "username": "Jane Smith",
+      "position": "Director",
+      "src": "/img/avatars/2.svg",
+      "location": "Los Angeles, CA",
+      "industry": "Travel",
+      "status": "user",
+      "review": "Exclusive deals and great support.",
+      "rating": 4
+    }
+  ],
+  "overview": "Money3 is a leading provider of personal and vehicle finance solutions in Australia, specializing in giving people a fair go with flexible loan options tailored to individual needs.",
+  "website": "https://www.money3.com.au",
+  "industry": "Financial Services",
+  "companySize": "200 employees",
+  "headquarters": "Bundoora, Australia",
+  "subCategory": "Personal and Vehicle Finance"
+},
+
+{
+  "company": "Liberty Financial",
+  "logo": "/img/liberty.png",
+  "title": "Liberty Financial",
+  "description": "Liberty offers free-thinking loans to provide greater choice, helping over 850,000 customers get financial with a variety of flexible and customisable products.",
+  "tags": ["Home", "Car", "Personal", "Business"],
+  "category": ["Home Loan", "Car Loan", "Personal Loan", "Business Loan"],
+  "interestRate": "From 6.49%",
+  "comparisonRate": "From 6.86%",
+  "establishmentFee": "Varies by product",
+  "costRange": "Varies by product",
+  "approvalChance": "Varies by applicant",
+  "products": [
+    {
+      "type": "Home Loan",
+      "interestRate": "From 6.49%",
+      "comparisonRate": "From 6.86%",
+      "establishmentFee": "Varies",
+      "costRange": "Up to $5M",
+      "approvalChance": "Varies"
+    },
+    {
+      "type": "Car Loan",
+      "interestRate": "Varies",
+      "comparisonRate": "Varies",
+      "establishmentFee": "Varies",
+      "costRange": "Up to $100,000",
+      "approvalChance": "Varies"
+    },
+    {
+      "type": "Personal Loan",
+      "interestRate": "Varies",
+      "comparisonRate": "Varies",
+      "establishmentFee": "Varies",
+      "costRange": "Up to $50,000",
+      "approvalChance": "Varies"
+    },
+    {
+      "type": "Business Loan",
+      "interestRate": "Varies",
+      "comparisonRate": "Varies",
+      "establishmentFee": "Varies",
+      "costRange": "Varies",
+      "approvalChance": "Varies"
+    }
+  ],
+  "team": [
+    {
+      "tooltip": "Clark Smith",
+      "src": "/img/avatars/3.svg"
+    },
+    {
+      "tooltip": "Maya Rosselini",
+      "src": "/img/avatars/2.svg"
+    },
+    {
+      "tooltip": "Clarissa Miller",
+      "src": "/img/avatars/5.svg"
+    },
+    {
+      "tooltip": "Jane Doe",
+      "src": "/img/avatars/4.svg"
+    }
+  ],
+  "location": "Melbourne, VIC",
+  "video": "https://www.youtube.com/watch?v=example",
+  "likes": 150,
+  "starReviews": 4000,
+  "reviews": [
+    {
+      "username": "John Doe",
+      "position": "Manager",
+      "src": "/img/avatars/1.svg",
+      "location": "Sydney, Australia",
+      "industry": "Finance",
+      "status": "customer",
+      "review": "Flexible loan options and great customer service.",
+      "rating": 5
+    },
+    {
+      "username": "Jane Smith",
+      "position": "Director",
+      "src": "/img/avatars/2.svg",
+      "location": "Melbourne, Australia",
+      "industry": "Real Estate",
+      "status": "customer",
+      "review": "Competitive rates and quick approval process.",
+      "rating": 4
+    }
+  ],
+  "overview": "Liberty Financial is a leading non-bank lender in Australia, offering a wide range of financial products including home loans, car loans, personal loans, and business loans. With over 25 years of experience, Liberty provides flexible and innovative solutions tailored to meet the diverse needs of its customers.",
+  "website": "https://www.liberty.com.au",
+  "industry": "Financial Services",
+  "companySize": "500+ employees",
+  "headquarters": "Melbourne, Australia",
+  "subCategory": "Non-Bank Lender"
+},
+
+{
+  "company": "Resimac",
+  "logo": "/img/resimac.png",
+  "title": "Resimac",
+  "description": "Resimac is a premier non-bank lender in Australia, providing a broad suite of competitive, award-winning products that cater to diverse customer types and needs.",
+  "tags": ["Home", "Car", "Asset Finance"],
+  "category": ["Home Loan", "Car Loan", "Asset Finance"],
+  "interestRate": "Varies by product",
+  "comparisonRate": "Varies by product",
+  "establishmentFee": "Varies by product",
+  "costRange": "Dependent on loan type and amount",
+  "approvalChance": "Subject to credit assessment",
+  "products": [
+    {
+      "type": "Home Loan",
+      "interestRate": "Varies by product",
+      "comparisonRate": "Varies by product",
+      "establishmentFee": "From $399",
+      "costRange": "Up to 95% LVR",
+      "approvalChance": "Subject to credit assessment"
+    },
+    {
+      "type": "Car Loan",
+      "interestRate": "Competitive fixed rates",
+      "comparisonRate": "Varies",
+      "establishmentFee": "Varies",
+      "costRange": "Up to $150,000",
+      "approvalChance": "Subject to credit assessment"
+    },
+    {
+      "type": "Asset Finance",
+      "interestRate": "Competitive rates",
+      "comparisonRate": "Varies",
+      "establishmentFee": "Varies",
+      "costRange": "Up to $350,000 for equipment",
+      "approvalChance": "Subject to credit assessment"
+    }
+  ],
+  "team": [
+    {
+      "tooltip": "John Smith",
+      "src": "/img/avatars/1.svg"
+    },
+    {
+      "tooltip": "Emily Johnson",
+      "src": "/img/avatars/2.svg"
+    },
+    {
+      "tooltip": "Michael Brown",
+      "src": "/img/avatars/3.svg"
+    },
+    {
+      "tooltip": "Sarah Davis",
+      "src": "/img/avatars/4.svg"
+    }
+  ],
+  "location": "Sydney, NSW",
+  "video": "https://www.youtube.com/watch?v=example",
+  "likes": 250,
+  "starReviews": 1500,
+  "reviews": [
+    {
+      "username": "Alice Williams",
+      "position": "Homeowner",
+      "src": "/img/avatars/5.svg",
+      "location": "Melbourne, Australia",
+      "industry": "Real Estate",
+      "status": "user",
+      "review": "Resimac provided excellent service and competitive rates for my home loan.",
+      "rating": 5
+    },
+    {
+      "username": "David Wilson",
+      "position": "Entrepreneur",
+      "src": "/img/avatars/6.svg",
+      "location": "Brisbane, Australia",
+      "industry": "Automotive",
+      "status": "user",
+      "review": "The car loan process was straightforward and efficient.",
+      "rating": 4
+    }
+  ],
+  "overview": "Resimac offers a variety of loan products, including home loans, car loans, and asset finance solutions, designed to meet the diverse needs of their customers.",
+  "website": "https://www.resimac.com.au",
+  "industry": "Financial Services",
+  "companySize": "200+ employees",
+  "headquarters": "Sydney, Australia",
+  "subCategory": "Non-Bank Lending"
+}
+
+
+
+
+
+
+
+]

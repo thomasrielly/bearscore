@@ -1,0 +1,1 @@
+import{f as u,ah as o,G as r,N as e,an as i}from"./BdTB-59g.js";function l(n){const a=u(o(n));return r(()=>o(n),t=>{a.value=t||`nui-input-${crypto.randomUUID()}`}),e(()=>{a.value||(a.value=`nui-input-${crypto.randomUUID()}`)}),i(a)}export{l as u};

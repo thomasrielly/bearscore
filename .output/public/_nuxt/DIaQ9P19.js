@@ -1,0 +1,1 @@
+import{x as e,o as t,c as s,g as o}from"./BdTB-59g.js";const c={},n={style:{display:"flex","align-items":"center","justify-content":"center",width:"250px",height:"60px"},class:"shrink-0"},a=o("span",{style:{"font-size":"24px"}},"SaaS Bear",-1),r=[a];function i(_,d){return t(),s("div",n,r)}const f=e(c,[["render",i]]);export{f as default};
