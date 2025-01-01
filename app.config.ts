@@ -183,8 +183,8 @@ export default defineAppConfig({
                 icon: { name: 'ph:list-bullets-duotone', class: 'w-4 h-4' },
               },
               {
-                name: 'Flex list v1',
-                to: '/layouts/flex-list-1',
+                name: 'Score',
+                to: '/score',
                 icon: { name: 'ph:list-checks-duotone', class: 'w-4 h-4' },
               },
               {
@@ -331,14 +331,14 @@ export default defineAppConfig({
           {
             name: 'Score',
             icon: { name: 'ph:users-duotone', class: 'w-6 h-6' },
-            activePath: '/layouts/flex-list-1',
-            to: '/layouts/flex-list-1',
+            activePath: '/score',
+            to: '/score',
           },
           {
             name: 'Resources',
             icon: { name: 'ph:note-duotone', class: 'w-6 h-6' },
-            activePath: '/layouts/table-list-3',
-            to: '/layouts/table-list-3',
+            activePath: '/resources',
+            to: '/resources',
           },
         ],
       },

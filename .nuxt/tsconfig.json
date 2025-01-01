@@ -139,7 +139,6 @@
     "../../layers/tairo-layout-topnav/**/*",
     "../../layers/tairo/**/*",
     "../../node_modules/.pnpm/@shuriken-ui+nuxt@3.1.5_nuxt@3.11.2_vue@3.4.21/node_modules/@shuriken-ui/nuxt/**/*",
-    "../../**/*",
     "../../layers/tairo/modules/runtime",
     "../../node_modules/.pnpm/nuxt-mongoose@1.0.6_@nuxt+devtools@1.0.8_@vue+compiler-core@3.4.21_nuxt@3.11.2/node_modules/nuxt-mongoose/runtime",
     "../../node_modules/.pnpm/@cssninja+nuxt-toaster@0.3.12_vue@3.4.21/node_modules/@cssninja/nuxt-toaster/runtime",
@@ -154,7 +153,6 @@
   ],
   "exclude": [
     "../node_modules",
-    "../../node_modules",
     "../../node_modules/.pnpm/nuxt@3.11.2_@unocss+reset@0.59.1_eslint@8.57.0_floating-vue@5.2.2_typescript@5.4.5_unocss@0.59.1_vue-tsc@2.0.12/node_modules/nuxt/node_modules",
     "../../layers/tairo/modules/runtime/server",
     "../../node_modules/.pnpm/nuxt-mongoose@1.0.6_@nuxt+devtools@1.0.8_@vue+compiler-core@3.4.21_nuxt@3.11.2/node_modules/nuxt-mongoose/runtime/server",
