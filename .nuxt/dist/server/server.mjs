@@ -1,1 +1,0 @@
-export { default } from "file:///C:/Users/Nebula%20PC/Desktop/BearScore/node_modules/.pnpm/@nuxt+vite-builder@3.11.2_eslint@8.57.0_typescript@5.4.5_vue-tsc@2.0.12_vue@3.4.21/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
